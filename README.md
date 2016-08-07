@@ -2,4 +2,4 @@ doc
 ===
 
 help doc
-test
+tests
